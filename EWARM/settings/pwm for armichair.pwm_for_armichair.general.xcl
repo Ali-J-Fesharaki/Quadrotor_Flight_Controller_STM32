@@ -1,0 +1,15 @@
+"E:\arm prorgam\arm software\arm\bin\armproc.dll" 
+
+"E:\arm prorgam\arm software\arm\bin\armstlink2.dll" 
+
+"E:\project BC\ARM PART PROJECT BC\clearnce FInal code\pwm for armichair\EWARM\pwm for armichair\Exe\pwm for armichair.out" 
+
+--plugin "E:\arm prorgam\arm software\arm\bin\armbat.dll" 
+
+--device_macro "E:\arm prorgam\arm software\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "E:\arm prorgam\arm software\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+
